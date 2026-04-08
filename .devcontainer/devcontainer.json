@@ -4,7 +4,7 @@
 		"ghcr.io/stu-bell/devcontainer-features/python:0": {
 			"apt_get": true,
 			"installTools": true,
-			"min_python_version": "3.13"
+			"min_python_version": "3.12"
 		}
 	}
 }
